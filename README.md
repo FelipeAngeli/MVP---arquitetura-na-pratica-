@@ -30,8 +30,8 @@ Para executar este projeto, clone o repositório e abra o arquivo .xcodeproj no 
 
 ```
 git clone https://github.com/FelipeAngeli/MVP---arquitetura-na-pratica-
-cd VipCleanSwift
-open VipCleanSwift.xcodeproj
+cd SwiftArquiteturas
+open SwiftArquiteturas.xcodeproj
 
 ```
 
